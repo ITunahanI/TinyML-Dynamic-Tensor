@@ -1,4 +1,4 @@
-Proje Adı: TinyML Dynamic Tensor Structure
+Proje Adı: Dinamik "Tensor" yapısı.
 
 Açıklama: RAM kısıtlı mikrodenetleyiciler için geliştirilmiş, Union tabanlı dinamik tensör yapısı.
 
